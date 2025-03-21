@@ -39,7 +39,7 @@ Pediatric gliomas are highly aggressive tumors with low survival rates, and thei
    pip install monai
    ```
 
-### Sanity Test
+#### Sanity Test
 
 After installation, verify the setup by running the following commands in a Python environment:
 ```python
